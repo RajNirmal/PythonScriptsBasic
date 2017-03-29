@@ -1,4 +1,4 @@
-# This repo is my Python Code dump
+# This repo is a Python Code dump
 
 > Till now I have done some basics python stuff thanks to the SkillRack thing in our college
 
